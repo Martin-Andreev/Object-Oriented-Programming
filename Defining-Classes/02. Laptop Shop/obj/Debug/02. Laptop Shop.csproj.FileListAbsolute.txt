@@ -1,0 +1,9 @@
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.exe.config
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.exe
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.pdb
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\02. Laptop Shop\obj\Debug\_02.Laptop_Shop.exe
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\02. Laptop Shop\obj\Debug\_02.Laptop_Shop.pdb
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\02. Laptop Shop\obj\Debug\02. Laptop Shop.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Defining-Classes\02. Laptop Shop\bin\Debug\_02.Laptop_Shop.exe.config
+C:\Users\Martin\Desktop\Defining-Classes\02. Laptop Shop\obj\Debug\_02.Laptop_Shop.exe
+C:\Users\Martin\Desktop\Defining-Classes\02. Laptop Shop\obj\Debug\_02.Laptop_Shop.pdb

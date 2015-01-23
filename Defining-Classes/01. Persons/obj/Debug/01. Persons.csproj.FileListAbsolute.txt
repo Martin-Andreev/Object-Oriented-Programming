@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\ConsoleApplication1\obj\Debug\01. Persons.csprojResolveAssemblyReference.cache

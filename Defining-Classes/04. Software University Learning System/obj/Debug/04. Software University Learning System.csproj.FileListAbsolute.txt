@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\04. Software University Learning System\bin\Debug\_04.Software_University_Learning_System.exe.config
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\04. Software University Learning System\bin\Debug\_04.Software_University_Learning_System.exe
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\04. Software University Learning System\bin\Debug\_04.Software_University_Learning_System.pdb
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\04. Software University Learning System\obj\Debug\04. Software University Learning System.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\04. Software University Learning System\obj\Debug\_04.Software_University_Learning_System.exe
+D:\SoftUni\Level #2\OOP\Degining-Classes\Defining-Classes\04. Software University Learning System\obj\Debug\_04.Software_University_Learning_System.pdb
