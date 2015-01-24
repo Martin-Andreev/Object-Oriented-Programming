@@ -55,8 +55,10 @@ namespace _04.Software_University_Learning_System
             }
 
             //Sort with lambda expression:
-            //persons.Where(person => person is CurrentStudent).OrderBy(person => ((Student)person).AvgGrade).ToList().
-            //    ForEach(p => Console.WriteLine(p.ToString()));
+            //persons
+            //    .Where(person => person is CurrentStudent)
+            //    .OrderBy(person => ((Student)person).AvgGrade).ToList()
+            //    .ForEach(p => Console.WriteLine(p.ToString()));
         }
     }
 }
