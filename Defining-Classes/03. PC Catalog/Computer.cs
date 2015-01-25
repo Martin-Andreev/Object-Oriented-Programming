@@ -1,8 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+using System.Globalization;
 using System.Text;
-using System.Threading.Tasks;
+using System.Threading;
 
 namespace PC_Catalog
 {
@@ -82,6 +81,8 @@ namespace PC_Catalog
 
         public override string ToString()
         {
+            Thread.CurrentThread.CurrentCulture = new CultureInfo("bg");
+
             StringBuilder result = new StringBuilder();
             result.AppendLine("Computer name: " + this.name);
             result.AppendLine("Processor: " + this.Processor.Name);

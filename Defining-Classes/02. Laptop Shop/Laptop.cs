@@ -1,15 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace _02.Laptop_Shop
 {
     class Laptop
     {
         private string model;
-        private double price;
+        private decimal price;
         private string manufacturer;
         private string processor;
         private string ram;
@@ -18,13 +15,13 @@ namespace _02.Laptop_Shop
         private string screen;
         private Battery laptopBattery;
 
-        public Laptop(string model, double price)
+        public Laptop(string model, decimal price)
         {
             this.Model = model;
             this.Price = price;
         }
 
-        public Laptop(string model, double price, string manufacturer = null, string processor = null, string ram = null, string graphicsCard = null, string hdd = null, string screen = null, string batteryModel = null, double batteryHours = 0)
+        public Laptop(string model, decimal price, string manufacturer = null, string processor = null, string ram = null, string graphicsCard = null, string hdd = null, string screen = null, string batteryModel = null, double batteryHours = 0)
             :this(model, price)
         {
             this.Manufacturer = manufacturer;
@@ -49,7 +46,7 @@ namespace _02.Laptop_Shop
             }
         }
 
-        public double Price
+        public decimal Price
         {
             get { return this.price; }
             set
@@ -185,7 +182,7 @@ namespace _02.Laptop_Shop
             {
                 result.AppendLine("Battery Life: " + this.LaptopBattery.BatteryLife + "hours");
             }
-            result.AppendLine("Price: " + this.Price + "lv.");
+            result.AppendLine("Price: " + this.Price + " lv.");
             return result.ToString();
         }
     }

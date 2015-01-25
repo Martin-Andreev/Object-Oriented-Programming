@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _02.Laptop_Shop
 {
@@ -26,7 +22,7 @@ namespace _02.Laptop_Shop
             {
                 if (string.IsNullOrEmpty(value))
                 {
-                    throw new ArgumentException("Invalid value for battery type!");
+                    throw new ArgumentNullException("The value of battery type cannot be empty!");
                 }
                 this.batteryModel = value;
             }
