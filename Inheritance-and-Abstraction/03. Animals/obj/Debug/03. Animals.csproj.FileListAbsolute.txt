@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\03. Animals\bin\Debug\_03.Animals.exe.config
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\03. Animals\obj\Debug\03. Animals.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\03. Animals\bin\Debug\_03.Animals.exe
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\03. Animals\bin\Debug\_03.Animals.pdb
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\03. Animals\obj\Debug\_03.Animals.exe
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\03. Animals\obj\Debug\_03.Animals.pdb

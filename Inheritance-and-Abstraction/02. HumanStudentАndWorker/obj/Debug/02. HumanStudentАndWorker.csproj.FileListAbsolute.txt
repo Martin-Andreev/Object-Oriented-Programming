@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\02. HumanStudentАndWorker\bin\Debug\_02.HumanStudentАndWorker.exe.config
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\02. HumanStudentАndWorker\bin\Debug\_02.HumanStudentАndWorker.exe
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\02. HumanStudentАndWorker\bin\Debug\_02.HumanStudentАndWorker.pdb
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\02. HumanStudentАndWorker\obj\Debug\02. HumanStudentАndWorker.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\02. HumanStudentАndWorker\obj\Debug\_02.HumanStudentАndWorker.exe
+D:\SoftUni\Level #2\OOP\Inheritance-and-Abstraction\Inheritance-and-Abstraction\02. HumanStudentАndWorker\obj\Debug\_02.HumanStudentАndWorker.pdb
