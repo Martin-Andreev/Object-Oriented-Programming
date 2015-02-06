@@ -1,0 +1,10 @@
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\Encapsulation and Polymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\Encapsulation and Polymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\Encapsulation and Polymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\Encapsulation and Polymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\Encapsulation and Polymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache

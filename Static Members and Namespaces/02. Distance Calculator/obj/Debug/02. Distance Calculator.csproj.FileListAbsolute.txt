@@ -1,0 +1,11 @@
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\02. Distance Calculator\bin\Debug\_02.Distance_Calculator.exe.config
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\02. Distance Calculator\obj\Debug\Interop.Accessibility.dll
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\02. Distance Calculator\obj\Debug\02. Distance Calculator.csproj.ResolveComReference.cache
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\02. Distance Calculator\obj\Debug\02. Distance Calculator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\02. Distance Calculator\bin\Debug\_02.Distance_Calculator.exe
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\02. Distance Calculator\bin\Debug\_02.Distance_Calculator.pdb
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\02. Distance Calculator\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\02. Distance Calculator\bin\Debug\_01.Point3D.exe
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\02. Distance Calculator\bin\Debug\_01.Point3D.pdb
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\02. Distance Calculator\obj\Debug\_02.Distance_Calculator.exe
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\02. Distance Calculator\obj\Debug\_02.Distance_Calculator.pdb

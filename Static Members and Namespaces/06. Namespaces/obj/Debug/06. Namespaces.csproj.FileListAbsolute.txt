@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\06. Namespaces\bin\Debug\_06.Namespaces.exe.config
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\06. Namespaces\bin\Debug\_06.Namespaces.exe
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\06. Namespaces\bin\Debug\_06.Namespaces.pdb
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\06. Namespaces\obj\Debug\06. Namespaces.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\06. Namespaces\obj\Debug\_06.Namespaces.exe
+D:\SoftUni\Level #2\OOP\Static Members and Namespaces\Static Members and Namespaces\06. Namespaces\obj\Debug\_06.Namespaces.pdb

@@ -1,0 +1,5 @@
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\Encapsulation and Polymorphism\03. TheSlum-Skeleton\obj\Debug\TheSlum.exe
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\Encapsulation and Polymorphism\03. TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\Encapsulation and Polymorphism\03. TheSlum-Skeleton\bin\Debug\TheSlum.exe
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\Encapsulation and Polymorphism\03. TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+D:\SoftUni\Level #2\OOP\Encapsulation and Polymorphism\Encapsulation and Polymorphism\03. TheSlum-Skeleton\obj\Debug\03. TheSlum.csprojResolveAssemblyReference.cache
