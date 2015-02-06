@@ -3,10 +3,10 @@
     using System;
     using BankSystem.Contracts;
 
-    class CompanyCustomer : Customer, ICustomer
+    public class CompanyCustomer : Customer, ICustomer
     {
         public CompanyCustomer(string name)
-            :base(name)
+            : base(name)
         {
         }
     }

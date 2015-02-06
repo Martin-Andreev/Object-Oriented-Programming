@@ -1,8 +1,9 @@
 ﻿namespace BankSystem.Models
 {
     using System;
+    using BankSystem.Contracts;
 
-    public abstract class Customer
+    public abstract class Customer : ICustomer
     {
         private string name;
 
@@ -13,7 +14,11 @@
 
         public string Name
         {
-            get { return this.name; }
+            get
+            {
+                return this.name;
+            }
+
             set
             {
                 if (string.IsNullOrEmpty(value))

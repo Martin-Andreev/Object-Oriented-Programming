@@ -3,13 +3,13 @@
     using System;
     using BankSystem.Contracts;
 
-    public abstract class Account : IAccount
+    public abstract class Account : IAccount, IDepositable
     {
         private ICustomer customer;
         private decimal balance;
         private double interestRate;
 
-        public Account(ICustomer customer, decimal balance, double interestRate)
+        protected Account(ICustomer customer, decimal balance, double interestRate)
         {
             this.Customer = customer;
             this.Balance = balance;
@@ -18,7 +18,10 @@
 
         public ICustomer Customer
         {
-            get { return this.customer; }
+            get
+            {
+                return this.customer;
+            }
 
             set
             {
@@ -33,7 +36,10 @@
 
         public decimal Balance
         {
-            get { return this.balance; }
+            get
+            {
+                return this.balance;
+            }
 
             protected set
             {
@@ -43,12 +49,19 @@
 
         public double InterestRate
         {
-            get { return this.interestRate; }
+            get
+            {
+                return this.interestRate;
+            }
 
             protected set
             {
                 this.interestRate = value;
             }
+        }
+
+        public virtual void Deposit(decimal amount)
+        {
         }
 
         public virtual decimal CalculateInterest(double months)

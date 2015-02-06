@@ -1,7 +1,7 @@
 ﻿namespace BankSystem.Models
 {
-    using BankSystem.Contracts;
     using System;
+    using BankSystem.Contracts;
 
     public class MortageAccount : Account, IDepositable
     {
@@ -10,7 +10,7 @@
         {
         }
 
-        public void Deposit(decimal amount)
+        public override void Deposit(decimal amount)
         {
             if (amount < 0)
             {
@@ -18,8 +18,7 @@
             }
 
             this.Balance += amount;
-            Console.WriteLine(string.Format("{0} deposited {1}lv. {0} account now have {2}lv.",
-                this.Customer.Name, amount, this.Balance));
+            Console.WriteLine(string.Format("{0} deposited {1}lv. {0} account now have {2}lv.", this.Customer.Name, amount, this.Balance));
         }
 
         public override decimal CalculateInterest(double months)
@@ -37,7 +36,7 @@
                 else
                 {
                     interestRate = (base.CalculateInterest(interestRatePeriod) / 2) +
-                        (base.CalculateInterest(months - interestRatePeriod));
+                        base.CalculateInterest(months - interestRatePeriod);
                     return interestRate;
                 }
             }

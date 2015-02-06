@@ -1,7 +1,6 @@
 ﻿namespace BankSystem.Contracts
 {
     using System;
-    using BankSystem.Models;
 
     public interface IAccount
     {

@@ -2,12 +2,12 @@
 {
     using System;
     using System.Collections.Generic;
-    using BankSystem.Models;
     using BankSystem.Contracts;
+    using BankSystem.Models;
 
-    class BankSystemMain
+    public class BankSystemMain
     {
-        static void Main()
+        public static void Main()
         {
             ICustomer stamat = new IndividualCustomer("Stamat Minkov");
             ICustomer penka = new IndividualCustomer("Irina B.");
@@ -23,8 +23,7 @@
 
             foreach (var account in accounts)
             {
-                Console.WriteLine("Account name: {0} \nAccount type: {1}\nMoney in Kurtovo Konare Bank: {2}lv.\n", 
-                    account.Customer.Name, account.GetType().Name, account.CalculateInterest(2));
+                Console.WriteLine("Account name: {0} \nAccount type: {1}\nMoney in Kurtovo Konare Bank: {2}lv.\n", account.Customer.Name, account.GetType().Name, account.CalculateInterest(2));
             }
 
             stamatAccount.Deposit(500);

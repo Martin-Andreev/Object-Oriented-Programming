@@ -5,8 +5,8 @@
 
     public abstract class Bonus : Item, ITimeoutable
     {
-        public Bonus(string id, int healthEffect, int defenseEffect, int attackEffect)
-            :base(id, healthEffect, defenseEffect, attackEffect)
+        protected Bonus(string id, int healthEffect, int defenseEffect, int attackEffect)
+            : base(id, healthEffect, defenseEffect, attackEffect)
         {
         }
 
