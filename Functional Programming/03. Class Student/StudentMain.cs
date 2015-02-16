@@ -53,7 +53,8 @@
                 .ToList()
                 .ForEach(s => Console.WriteLine(s));
 
-            // Problem 6: Write a LINQ query that finds the first name and last name of all students with age between 18 and 24. The query should return only the first name, last name and age.
+            /* Problem 6: Write a LINQ query that finds the first name and last name of all students with age between 18 and 24. 
+             * The query should return only the first name, last name and age. */
             var studentsInRange =
                 from student in students
                 where student.Age >= 18 && student.Age <= 24
@@ -130,7 +131,8 @@
                 .ToList()
                 .ForEach(s => Console.WriteLine("Student: {0}. Marks: {1}", s.FullName, string.Join(", ", s.Marks)));
 
-            // Problem 12: Extract and print the Marks of the students that enrolled in 2014 (the students from 2014 have 14 as their 5-th and 6-th digit in the FacultyNumber).
+            /* Problem 12: Extract and print the Marks of the students that enrolled in 2014 (the students from 2014 have 14 as 
+             * their 5-th and 6-th digit in the FacultyNumber). */
             var studentsFrom2014 =
                 from student in students
                 where student.FacultyNumber.ToString().EndsWith("14")
@@ -164,7 +166,9 @@
                 Console.WriteLine(string.Join("\n", group.GroupMembers));
             }
 
-            // Problem 14: Create a class StudentSpecialty that holds specialty name and faculty number. Create a list of student specialties, where each specialty corresponds to a certain student (via the faculty number). Print all student names alphabetically along with their faculty number and specialty name.
+            /* Problem 14: Create a class StudentSpecialty that holds specialty name and faculty number. Create a list 
+             * specialties, where each specialty corresponds to a certain student (via the faculty number). 
+             * Print all student names alphabetically along with their faculty number and specialty name. */
 
             var specialties = new List<StudentSpecialty>()
             {
