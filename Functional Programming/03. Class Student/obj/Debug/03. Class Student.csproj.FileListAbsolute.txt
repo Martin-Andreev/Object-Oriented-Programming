@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\03. Class Student\bin\Debug\_03.Class_Student.exe.config
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\03. Class Student\bin\Debug\_03.Class_Student.exe
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\03. Class Student\bin\Debug\_03.Class_Student.pdb
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\03. Class Student\obj\Debug\03. Class Student.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\03. Class Student\obj\Debug\_03.Class_Student.exe
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\03. Class Student\obj\Debug\_03.Class_Student.pdb

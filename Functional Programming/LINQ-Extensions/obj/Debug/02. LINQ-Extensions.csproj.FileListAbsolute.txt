@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\LINQ-Extensions\bin\Debug\LINQ-Extensions.exe.config
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\LINQ-Extensions\obj\Debug\LINQ-Extensions.exe
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\LINQ-Extensions\obj\Debug\LINQ-Extensions.pdb
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\LINQ-Extensions\bin\Debug\LINQ-Extensions.exe
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\LINQ-Extensions\bin\Debug\LINQ-Extensions.pdb
+D:\SoftUni\Level #2\OOP\Functional Programming\Functional Programming\LINQ-Extensions\obj\Debug\02. LINQ-Extensions.csprojResolveAssemblyReference.cache

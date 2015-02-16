@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\01. Interest Calculator\bin\Debug\_01.Interest_Calculator.exe.config
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\01. Interest Calculator\bin\Debug\_01.Interest_Calculator.exe
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\01. Interest Calculator\bin\Debug\_01.Interest_Calculator.pdb
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\01. Interest Calculator\obj\Debug\01. Interest Calculator.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\01. Interest Calculator\obj\Debug\_01.Interest_Calculator.exe
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\01. Interest Calculator\obj\Debug\_01.Interest_Calculator.pdb

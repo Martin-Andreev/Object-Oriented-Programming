@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\02. Asynchronous Timer\bin\Debug\_02.Asynchronous_Timer.exe.config
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\02. Asynchronous Timer\bin\Debug\_02.Asynchronous_Timer.exe
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\02. Asynchronous Timer\bin\Debug\_02.Asynchronous_Timer.pdb
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\02. Asynchronous Timer\obj\Debug\02. Asynchronous Timer.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\02. Asynchronous Timer\obj\Debug\_02.Asynchronous_Timer.exe
+D:\SoftUni\Level #2\OOP\Delegates and Events Homework\Delegates and Events\02. Asynchronous Timer\obj\Debug\_02.Asynchronous_Timer.pdb

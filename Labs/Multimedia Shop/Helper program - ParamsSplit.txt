@@ -1,0 +1,15 @@
+// Export to method!!!
+
+Dictionary<string, string> keyValuePairs = new Dictionary<string, string>();
+string[] pairs = paramsString.Split('&');
+
+foreach (var pair in pairs)
+{
+	string[] keyValuePair = pair.Split('=');
+	keyValuePairs[keyValuePair[0]] = keyValuePair[1];
+}
+
+
+supply book 5 id=4fd332&title=Boat&price=20&author=Sellinger&genre=comedy
+
+supply video 20 id=16aa2142&title=Rambo&price=45&length=90&genre=action

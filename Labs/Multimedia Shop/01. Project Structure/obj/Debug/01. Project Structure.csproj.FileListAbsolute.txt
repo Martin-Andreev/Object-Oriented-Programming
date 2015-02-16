@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Labs\Multimedia Shop\01. Project Structure\bin\Debug\_01.Project_Structure.exe.config
+D:\SoftUni\Level #2\OOP\Labs\Multimedia Shop\01. Project Structure\obj\Debug\01. Project Structure.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Labs\Multimedia Shop\01. Project Structure\bin\Debug\_01.Project_Structure.exe
+D:\SoftUni\Level #2\OOP\Labs\Multimedia Shop\01. Project Structure\bin\Debug\_01.Project_Structure.pdb
+D:\SoftUni\Level #2\OOP\Labs\Multimedia Shop\01. Project Structure\obj\Debug\_01.Project_Structure.exe
+D:\SoftUni\Level #2\OOP\Labs\Multimedia Shop\01. Project Structure\obj\Debug\_01.Project_Structure.pdb

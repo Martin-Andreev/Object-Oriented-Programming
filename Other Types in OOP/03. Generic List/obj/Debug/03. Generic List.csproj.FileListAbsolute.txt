@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Other Types in OOP Homework\Other Types in OOP\03. Generic List\bin\Debug\_03.Generic_List.exe.config
+D:\SoftUni\Level #2\OOP\Other Types in OOP Homework\Other Types in OOP\03. Generic List\bin\Debug\_03.Generic_List.exe
+D:\SoftUni\Level #2\OOP\Other Types in OOP Homework\Other Types in OOP\03. Generic List\bin\Debug\_03.Generic_List.pdb
+D:\SoftUni\Level #2\OOP\Other Types in OOP Homework\Other Types in OOP\03. Generic List\obj\Debug\03. Generic List.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Other Types in OOP Homework\Other Types in OOP\03. Generic List\obj\Debug\_03.Generic_List.exe
+D:\SoftUni\Level #2\OOP\Other Types in OOP Homework\Other Types in OOP\03. Generic List\obj\Debug\_03.Generic_List.pdb
