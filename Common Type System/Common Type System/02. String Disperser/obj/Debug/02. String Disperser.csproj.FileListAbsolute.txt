@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\02. String Disperser\bin\Debug\_02.String_Disperser.exe.config
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\02. String Disperser\obj\Debug\02. String Disperser.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\02. String Disperser\bin\Debug\_02.String_Disperser.exe
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\02. String Disperser\bin\Debug\_02.String_Disperser.pdb
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\02. String Disperser\obj\Debug\_02.String_Disperser.exe
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\02. String Disperser\obj\Debug\_02.String_Disperser.pdb

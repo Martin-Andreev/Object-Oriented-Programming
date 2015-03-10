@@ -1,0 +1,6 @@
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\01. Customer\bin\Debug\_01.Customer.exe.config
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\01. Customer\obj\Debug\01. Customer.csprojResolveAssemblyReference.cache
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\01. Customer\bin\Debug\_01.Customer.exe
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\01. Customer\bin\Debug\_01.Customer.pdb
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\01. Customer\obj\Debug\_01.Customer.exe
+D:\SoftUni\Level #2\OOP\Common Type System\Common Type System\01. Customer\obj\Debug\_01.Customer.pdb
